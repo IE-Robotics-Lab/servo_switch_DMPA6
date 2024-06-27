@@ -55,7 +55,7 @@ sudo usermod -aG gpio $USER
 > crw------- 1 root gpio 239, 0 May 17 10:48 /dev/gpiome
 
 
-`**sudo python3 servo.py**`
+**`sudo python3 servo.py`**
 
 ## Run at boot
 
