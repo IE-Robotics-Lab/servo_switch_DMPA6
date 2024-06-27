@@ -59,7 +59,7 @@ sudo usermod -aG gpio $USER
 
 ## Run at boot
 
-1. Create a design to keep the servo in place, so it will be able to use his torque all against turn on button
+1. Create a design to keep the servo in place, so it will be able to use his torque all against turn on button (the stl file of the design can be found [here](https://github.com/IE-Robotics-Lab/3d-printing-designs/blob/main/files/truss_supports/switch_servo.stl)).
 
     <p align="center">
         <img src="images/design.png" width="350" title="hover text">
