@@ -10,6 +10,8 @@ Every time we want to stream music from the Raspberry Pi to the DMP A6, at boot 
 
 [code & circuit](https://core-electronics.com.au/guides/control-servo-raspberry-pi/)
 
+[system d service](https://www.youtube.com/watch?v=DUGZC-tNm2w)
+
 ## Circuit
 
 <p align="center">
